@@ -1,6 +1,6 @@
-Everton Carvalho dos Santos 
-
-    Bacharel em Análise e Desenvolvimento de Sistemas pela UNOPAR. Desenvolvedor Backend, utilizo principalmente Java, Spring Boot e React. Trabalho bem em equipe, gosto de aprender novas tecnologias e ter novos desafios.
+<h1>Everton Carvalho dos Santos</h1>
+<h3>
+Bacharel em Análise e Desenvolvimento de Sistemas pela UNOPAR. Desenvolvedor Backend, utilizo principalmente Java, Spring Boot e React. Trabalho bem em equipe, gosto de aprender novas tecnologias e ter novos desafios.</h3>
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=flat)](https://web.dio.me/users/cfjdeq)
