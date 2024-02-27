@@ -17,3 +17,6 @@ Everton Carvalho dos Santos
 ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=red)
 ![Spring](https://img.shields.io/badge/Spring-000?style=flat&logo=spring&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=blue)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaiosSousa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
