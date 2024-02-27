@@ -6,7 +6,7 @@ Bacharel em Análise e Desenvolvimento de Sistemas pela UNOPAR. Desenvolvedor Ba
 
 ## Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=flat)](https://web.dio.me/users/cfjdeq)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=flat)](https://www.dio.me/users/ecsnote88)
 [![E-mail](https://img.shields.io/badge/Gmail-000?style=flat&logo=gmail&logoColor=red)](mailto:ecsnote88@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/everton-santos-9714ba11/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=github&logoColor=white)](https://github.com/byctea)
